@@ -7,7 +7,7 @@
 
 My name is Peter Kobylarz and I live in Arvada, Colorado with my wife Danielle and our 2 year old dog Cooper. We try to spend as much time skiing as possible during the winter. In the summer we like to explore the mountains and forage for wild mushrooms.
 
- <img src="https://github.com/peterkobylarz/peterkobylarz.github.io/blob/main/PDC.png" width="567" height="756">
+ <img src="/images/PDC.png" width="567" height="756">
 
 I graduated from the University of Washington in Seattle in 2007 with bachelor degrees in Geography and Political Science. I originally planned on studying Computer Science but fell in love with the complex and important discipline of Geography after taking a course on global inequality. Through my Geography coursework, I discovered GIS, which was a way for me to combine my interests in these two fields. I haven't pursued any graduate studies since then and I am excited for the opportunity the Earth Data Analytics certificate program offers!
 
