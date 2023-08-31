@@ -1,9 +1,9 @@
 # Earth Data Science Portfolio for Peter Kobylarz
 
 ## Bio
-- email: peko3174@colorado.edu
-- github: peterkobylarz
-- LinkedIn: https://www.linkedin.com/in/peter-kobylarz/
+- email: <peko3174@colorado.edu>
+- github: [peterkobylarz](https://github.com/peterkobylarz)
+- LinkedIn: <https://www.linkedin.com/in/peter-kobylarz/>
 
 My name is Peter Kobylarz and I live in Arvada, Colorado with my wife Danielle and our 2 year old dog Cooper. We try to spend as much time skiing as possible during the winter. In the summer we like to explore the mountains and forage for wild mushrooms.
 
