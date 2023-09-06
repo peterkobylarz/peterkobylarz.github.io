@@ -1,4 +1,4 @@
-# Earth Data Science Portfolio for Peter Kobylarz
+# Earth Data Analytics Portfolio for Peter Kobylarz
 
 ## Bio
 - email: <peko3174@colorado.edu>
