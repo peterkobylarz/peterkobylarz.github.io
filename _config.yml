@@ -1,6 +1,4 @@
-title: testing
-description: Tactile is a theme for GitHub Pages.
-name: Portfolio Site for Peter Kobylarz
+title: Earth Data Analytics Portfolio for Peter Kobylarz
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
