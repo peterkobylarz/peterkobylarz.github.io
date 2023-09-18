@@ -1,6 +1,6 @@
 <p></p>
 ## Projects
-[Click here for a link to my Earth Data Analytics projects page](https://peterkobylarz.github.io//projects/projects.html)
+### [Maximum Annual Temperature in Bakersfield, CA since 1945](https://peterkobylarz.github.io/projects/temp_analysis.html)
 
 ## Bio
 - email: <peko3174@colorado.edu>
