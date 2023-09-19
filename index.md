@@ -3,6 +3,8 @@
 
 ### [Maximum Annual Temperature in Bakersfield, CA since 1945](https://peterkobylarz.github.io/projects/temp_analysis.html)
 
+### [Time Series Flood Analysis - Yellowstone National Park 2022](https://peterkobylarz.github.io/projects/yellowstone_flood.html)
+
 ## Bio
 - email: <peko3174@colorado.edu>
 - github: [peterkobylarz](https://github.com/peterkobylarz)
