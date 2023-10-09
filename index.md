@@ -5,6 +5,8 @@
 
 ### [Time Series Flood Analysis - Yellowstone National Park 2022](https://peterkobylarz.github.io/projects/yellowstone_flood.html)
 
+### [Dixie Fire - NDVI Vegetation Health Analysis] (https://peterkobylarz.github.io/projects/dixie_fire.html)
+
 ## Bio
 - email: <peko3174@colorado.edu>
 - github: [peterkobylarz](https://github.com/peterkobylarz)
