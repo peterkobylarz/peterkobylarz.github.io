@@ -7,6 +7,8 @@
 
 ### [Dixie Fire - NDVI Vegetation Health Analysis](https://peterkobylarz.github.io/projects/dixie_fire.html)
 
+### [Oakland NDVI Analsysis](https://peterkobylarz.github.io/projects/oakland-ndvi.html)
+
 ## Bio
 - email: <peko3174@colorado.edu>
 - github: [peterkobylarz](https://github.com/peterkobylarz)
