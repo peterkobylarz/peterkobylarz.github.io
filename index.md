@@ -7,6 +7,8 @@
 
 ### [Dixie Fire - NDVI Vegetation Health Analysis](https://peterkobylarz.github.io/projects/dixie_fire.html)
 
+### [California Wildfire Analysis by County](https://peterkobylarz.github.io/projects/ca_fires.html)
+
 ### [Oakland NDVI Analsysis](https://peterkobylarz.github.io/projects/oakland-ndvi.html)
 
 ## Bio
