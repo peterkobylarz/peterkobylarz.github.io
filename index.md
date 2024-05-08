@@ -9,7 +9,9 @@
 
 ### [California Wildfire Analysis by County](https://peterkobylarz.github.io/projects/ca_fires.html)
 
-### [Oakland NDVI Analsysis](https://peterkobylarz.github.io/projects/oakland-ndvi.html)
+### [Oakland NDVI Analysis](https://peterkobylarz.github.io/projects/oakland-ndvi.html)
+
+### [Project Treebeard - Forest Heterogeneity](https://peterkobylarz.github.io/projects/treebeard.html)
 
 ## Bio
 - email: <peko3174@colorado.edu>
