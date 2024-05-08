@@ -11,6 +11,8 @@
 
 ### [Oakland NDVI Analsysis](https://peterkobylarz.github.io/projects/oakland-ndvi.html)
 
+### [Project Treebeard - Forest Heterogeneity](https://peterkobylarz.github.io/projects/treebeard.html)
+
 ## Bio
 - email: <peko3174@colorado.edu>
 - github: [peterkobylarz](https://github.com/peterkobylarz)
