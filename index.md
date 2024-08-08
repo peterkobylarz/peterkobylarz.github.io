@@ -15,6 +15,8 @@
 
 ### [Project Treebeard - Forest Heterogeneity](https://peterkobylarz.github.io/projects/treebeard.html)
 
+### [Project Treebeard Update - Forest Heterogeneity](https://peterkobylarz.github.io/projects/treebeard_lidar.html)
+
 ## Bio
 - email: <peko3174@colorado.edu>
 - github: [peterkobylarz](https://github.com/peterkobylarz)
